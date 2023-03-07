@@ -1,0 +1,18 @@
+<table>
+	<tr>
+		<td>id</td>
+		<td>identificacion</td>
+		<td>nombres</td>
+		<td>apellidos</td>
+		<td>email</td>
+		<td>telefono</td>
+	</tr>
+</table>
+
+crear un sitio para venta de hamburguesas hecho con tablas para burguermaster
+html index
+html para cada local de hamburguesa
+los logos deben dirigir a cada html de hamburguesa
+tabla 2x3
+
+footer: disenado por... copysight, correo, telefono, redes sociales
